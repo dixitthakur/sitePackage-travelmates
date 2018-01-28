@@ -1,0 +1,7 @@
+#
+# PageTS for travelMates
+#
+<INCLUDE_TYPOSCRIPT: source="FILE:EXT:travelmates/Configuration/PageTS/RTE.txt">
+<INCLUDE_TYPOSCRIPT: source="FILE:EXT:travelmates/Configuration/PageTS/TCEFORM.txt">
+<INCLUDE_TYPOSCRIPT: source="FILE:EXT:travelmates/Configuration/PageTS/TCEMAIN.txt">
+<INCLUDE_TYPOSCRIPT: source="FILE:EXT:travelmates/Configuration/PageTS/Mod/WebLayout/BackendLayouts.txt">

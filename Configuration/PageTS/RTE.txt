@@ -1,0 +1,44 @@
+#############
+#### RTE ####
+#############
+RTE {
+    config {
+        tt_content {
+            bodytext {
+                types {
+                    text {
+                        preset = travelmates
+                    }
+                    textcolumn {
+                        preset = travelmates
+                    }
+                    texticon {
+                        preset = travelmates
+                    }
+                    textmedia {
+                        preset = travelmates
+                    }
+                    textpic {
+                        preset = travelmates
+                    }
+                    textteaser {
+                        preset = travelmates
+                    }
+                    panel {
+                        preset = travelmates
+                    }
+                }
+            }
+        }
+        tx_bootstrappackage_accordion_item {
+            bodytext {
+                preset = travelmates
+            }
+        }
+        tx_bootstrappackage_tab_item {
+            bodytext {
+                preset = travelmates
+            }
+        }
+    }
+}
